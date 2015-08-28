@@ -1,11 +1,11 @@
 {
-  "name": "mean-skeleton",
+  "name": "api-demo",
   "version": "1.0.0",
-  "homepage": "https://github.com/plusk01/mean-skeleton",
+  "homepage": "https://github.com/byu-mechatronics/api-demo",
   "authors": [
     "Parker Lusk <parkerclusk@gmail.com>"
   ],
-  "description": "A MEAN skeletal structure that makes a lot of sense to me",
+  "description": "API Demo",
   "main": "app.js",
   "moduleType": [
     "globals"

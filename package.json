@@ -1,14 +1,14 @@
 {
-  "name": "mean-skeleton",
+  "name": "api-demo",
   "version": "1.0.0",
-  "description": "A MEAN skeletal structure that makes a lot of sense to me",
+  "description": "An API Demo",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://plusk01@github.com/plusk01/mean-skeleton.git"
+    "url": "https://github.com/byu-mechatronics/api-demo.git"
   },
   "keywords": [
     "mean",
@@ -18,7 +18,12 @@
   "author": "Parker Lusk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plusk01/mean-skeleton/issues"
+    "url": "https://github.com/byu-mechatronics/api-demo/issues"
   },
-  "homepage": "https://github.com/plusk01/mean-skeleton"
+  "homepage": "https://github.com/byu-mechatronics/api-demo",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
 }
